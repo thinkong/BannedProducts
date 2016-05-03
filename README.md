@@ -1,0 +1,2 @@
+# BannedProducts
+Banned Products List
